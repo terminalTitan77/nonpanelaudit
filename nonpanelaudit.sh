@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-##
+###
 # non-panel-audit.sh
 # ---------------------------------------------------------------------------
 # Security & health audit script for servers WITHOUT a control panel
